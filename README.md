@@ -20,4 +20,4 @@ No login, backend, database or external API.
     python3 verification/ui_check.py ../screenshots        # needs: pip install playwright && playwright install chromium
 
 ## Demo link
-DEMO_LINK_HERE
+    https://kanatkyzysabina.github.io/Prototype_bolt/demo_build/
